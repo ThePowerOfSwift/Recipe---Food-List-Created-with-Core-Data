@@ -1,5 +1,3 @@
-# Recipe---Food-List-Created-with-Core-Data
-Recipe -  Food List Created with Core Data
 # Recipe - Food List Created with Core Data
 
 A simple free and open source app that uses Core Data and Swift 2. The idea is based on a list of recipes that is displayed on the main page.
