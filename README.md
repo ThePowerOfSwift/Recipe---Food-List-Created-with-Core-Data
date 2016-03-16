@@ -40,4 +40,4 @@ All pull requests are welcome !
 
 ## License
 
-CountPages uses the MIT license. See [LICENSE](https://github.com/mihailsalari/Recipe---Food-List-Created-with-Core-Data/blob/master/LICENSE) for more details.
+Recipe uses the MIT license. See [LICENSE](https://github.com/mihailsalari/Recipe---Food-List-Created-with-Core-Data/blob/master/LICENSE.txt) for more details.
